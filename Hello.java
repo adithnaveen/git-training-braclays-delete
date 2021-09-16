@@ -17,6 +17,10 @@ class Hello  {
 		System.out.println("in new-branch")
 	}
 
+	public void methodToCheckPullRequest() {
+		
+	}
+
 }
 
 
