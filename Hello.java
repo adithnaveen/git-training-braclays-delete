@@ -13,7 +13,9 @@ class Hello  {
 	}
 	
 	
-	public void cya() {}
+	public void cya() {
+		System.out.println("in new-branch")
+	}
 
 }
 
