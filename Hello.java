@@ -3,6 +3,7 @@ package com.naveen;
 class Hello  {
 	public void hi() {
 		// i'm editing in main 
+		System.out.println("Hi");
 	}
 
 
