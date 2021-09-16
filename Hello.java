@@ -1,5 +1,9 @@
 package com.naveen;
 
-class Hello  {}
+class Hello  {
+	public void hi() {
+	
+	}
+}
 
 
