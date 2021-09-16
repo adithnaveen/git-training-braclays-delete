@@ -12,6 +12,8 @@ class Hello  {
 		Connection con = new Connection();
 	}
 	
+	
+	public void cya() {}
 
 }
 
