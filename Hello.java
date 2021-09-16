@@ -13,6 +13,14 @@ class Hello  {
 		Connection con = new Connection();
 	}
 	
+	
+	public void cya() {
+		System.out.println("in new-branch")
+	}
+
+	public void methodToCheckPullRequest() {
+		
+	}
 
 }
 
